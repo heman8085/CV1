@@ -123,3 +123,10 @@ top: 40px;}
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     text-decoration: none;
   }
+
+ @media (max-width:1028px) {
+    #title {text-align: center;}
+    
+    .top-cloud {position: static;}
+    .bottom-cloud {position: static;}
+    }
