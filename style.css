@@ -124,9 +124,3 @@ top: 40px;}
     text-decoration: none;
   }
 
- @media (max-width:1028px) {
-    #title {text-align: center;}
-    
-    .top-cloud {position: static;}
-    .bottom-cloud {position: static;}
-    }
